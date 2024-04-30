@@ -1,2 +1,2 @@
 # housing_prediction
-Using tree-based models to predict prices of houses and cluster them into different groups for customers at R2 of 0.77 and MAPE of just around 1%
+Using various models and fine-tune each one to predict housing price with a maximum R2 of 0.77 and a low MAE of less than 300k
